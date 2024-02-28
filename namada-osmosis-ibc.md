@@ -38,3 +38,60 @@ Creation address: osmo1s7k0twkkfxatehndu0uypqxgd835ezpus536g9
 
 **shielded-expedition.88f17d1d14:** http://195.201.56.139:26657/   
 **osmo-test-5:** http://195.201.56.139:27657/
+
+
+**`create connection, channels output`**
+```
+SUCCESS Channel {
+    ordering: Unordered,
+    a_side: ChannelSide {
+        chain: BaseChainHandle {
+            chain_id: ChainId {
+                id: "shielded-expedition.88f17d1d14",
+                version: 0,
+            },
+            runtime_sender: Sender { .. },
+        },
+        client_id: ClientId(
+            "07-tendermint-1971",
+        ),
+        connection_id: ConnectionId(
+            "connection-965",
+        ),
+        port_id: PortId(
+            "transfer",
+        ),
+        channel_id: Some(
+            ChannelId(
+                "channel-573",
+            ),
+        ),
+        version: None,
+    },
+    b_side: ChannelSide {
+        chain: BaseChainHandle {
+            chain_id: ChainId {
+                id: "osmo-test-5",
+                version: 5,
+            },
+            runtime_sender: Sender { .. },
+        },
+        client_id: ClientId(
+            "07-tendermint-2502",
+        ),
+        connection_id: ConnectionId(
+            "connection-2314",
+        ),
+        port_id: PortId(
+            "transfer",
+        ),
+        channel_id: Some(
+            ChannelId(
+                "channel-6023",
+            ),
+        ),
+        version: None,
+    },
+    connection_delay: 0ns,
+}
+```
