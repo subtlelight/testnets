@@ -29,10 +29,10 @@ Creation address: osmo1s7k0twkkfxatehndu0uypqxgd835ezpus536g9
 **`Test transactions:`**
 
 **from shielded-expedition.88f17d1d14 to osmo-test-5**   
-https://www.mintscan.io/osmosis-testnet/tx/148B9C0B9D22B5856F6B8D660541FFCD25C3EF66C301AFB55EC044852959822C?height=5670415
+[https://www.mintscan.io/osmosis-testnet/tx/148B9C0B9D22B5856F6B8D660541FFCD25C3EF66C301AFB55EC044852959822C?height=5670415](https://www.mintscan.io/osmosis-testnet/tx/12939AC7D5173849C685D5BBF4B4B1332FF453FE59B5E448EC5C66236984D048?height=5684207)
 
 **from osmo-test-5 to shielded-expedition.88f17d1d14**  
-https://www.mintscan.io/osmosis-testnet/tx/F1B79B70A97918B3B3F5CC4C93BB763D536D8658441F8863E9A5984A1C99B5F9?height=5670420
+[https://www.mintscan.io/osmosis-testnet/tx/F1B79B70A97918B3B3F5CC4C93BB763D536D8658441F8863E9A5984A1C99B5F9?height=5670420](https://www.mintscan.io/osmosis-testnet/tx/26359AC7ABE00A386E77D1C29576F4CA32487913238CA3AAFA40A8315900D668?height=5684210)
 
 **`Public RPC:`**
 
