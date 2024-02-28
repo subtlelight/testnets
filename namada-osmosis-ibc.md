@@ -2,27 +2,27 @@
 
 **Hermes memo_prefix:** **`subtlelight`**
 ```
-# Chain: shielded-expedition.88f17d1d14
-  - Client: 07-tendermint-1855
-    * Connection: connection-807
+## Chain: shielded-expedition.88f17d1d14
+  - Client: 07-tendermint-1971
+    * Connection: connection-965
       | State: OPEN
       | Counterparty state: OPEN
-      + Channel: channel-533
+      + Channel: channel-573
         | Port: transfer
         | State: OPEN
-        | Counterparty: channel-5987
+        | Counterparty: channel-6023
 Creation address: tnam1qq39pmztt3umjuyzyd8u7lg03ns8r5avpvld30va
 ```
 ```
 # Chain: osmo-test-5
-  - Client: 07-tendermint-2336
-    * Connection: connection-2190
+  - Client: 07-tendermint-2502
+    * Connection: connection-2314
       | State: OPEN
       | Counterparty state: OPEN
-      + Channel: channel-5873
+      + Channel: channel-6023
         | Port: transfer
         | State: OPEN
-        | Counterparty: channel-381
+        | Counterparty: channel-573
 Creation address: osmo1s7k0twkkfxatehndu0uypqxgd835ezpus536g9
 ```
 
