@@ -36,8 +36,8 @@ Creation address: osmo1s7k0twkkfxatehndu0uypqxgd835ezpus536g9
 
 **`Public RPC:`**
 
-**shielded-expedition.88f17d1d14:** http://195.201.56.139:26657/   
-**osmo-test-5:** http://195.201.56.139:27657/
+**shielded-expedition.88f17d1d14:** https://namosmoibc.subtlelight.space/
+**osmo-test-5:** https://namosmoibc.subtlelight.space:1443/
 
 
 **`create connection, channels output`**
