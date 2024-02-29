@@ -37,6 +37,7 @@ Creation address: osmo1s7k0twkkfxatehndu0uypqxgd835ezpus536g9
 **`Public RPC:`**
 
 **shielded-expedition.88f17d1d14:** https://namosmoibc.subtlelight.space/
+
 **osmo-test-5:** https://namosmoibc.subtlelight.space:1443/
 
 
